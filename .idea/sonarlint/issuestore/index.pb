@@ -3,3 +3,5 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ?
 CamelCase4.java,5\d\5d3a26a0dc9739f431ab316e43628f5393a61387
+=
+TestClas.java,7\3\7381bbb87516f9e6d817ff180826f34850a85b23
